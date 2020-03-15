@@ -1,4 +1,4 @@
-# contadorpessoas
+# Contador de pessoas
 
 Aplicativo contador de pessoas
 
